@@ -1,6 +1,7 @@
 Attribute VB_Name = "Module1"
 Sub SheetMerge_Click()
 
+
     Const sheetNameCol As String = "A"
     
     Dim dataStartRow, dataLastRow As Long
