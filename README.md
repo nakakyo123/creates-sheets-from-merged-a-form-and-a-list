@@ -1,2 +1,2 @@
-# creates-sheets-from-merged-a-form-and-a-list
+# creates-sheets-from-merged-form-and-list
 This Excel VBA book creates sheets from merged form and list
